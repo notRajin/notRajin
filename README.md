@@ -4,6 +4,8 @@ CS student at UNC Chapel Hill (May 2027) with a minor in Data Science.
 
 Interned at Red Hat as a Software Engineering Intern on the Operator Enablement team, contributing to open source projects in the Kubernetes and OpenShift ecosystem. [View internship project board](https://github.com/users/rocrisp/projects/4/views/1)
 
+> A large portion of my contribution history comes from a private Obsidian-based knowledge vault ("Second Brain") with 80+ notes, 350+ wikilinks, daily logs, weekly summaries, and structured learning notes built throughout the internship. It's how I retained and connected technical learnings across all projects.
+
 ### What I've worked on
 
 - **[pipeline-alerts](https://github.com/opdev/pipeline-alerts/pull/68)** -- Go webhook server for operator certification pipeline monitoring. Added failed CI step details and log URLs to Slack/Jira notifications.
