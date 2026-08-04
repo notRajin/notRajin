@@ -2,7 +2,7 @@
 
 CS student at UNC Chapel Hill (May 2027) with a minor in Data Science.
 
-Interned at Red Hat as a Software Engineering Intern on the Operator Enablement team, contributing to open source projects in the Kubernetes and OpenShift ecosystem.
+Interned at Red Hat as a Software Engineering Intern on the Operator Enablement team, contributing to open source projects in the Kubernetes and OpenShift ecosystem. [View internship project board](https://github.com/users/rocrisp/projects/4/views/1)
 
 ### What I've worked on
 
